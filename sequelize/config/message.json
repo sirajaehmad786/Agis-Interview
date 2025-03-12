@@ -1,0 +1,20 @@
+
+{
+    "TODO":{
+        "CREATED":"Todo created successfully",
+        "TODO_EXISTS":"Todo already exists",
+        "TODO_FETCHED":"Todo get successfully",
+        "TODO_NOT_FOUND":"Todo not found",
+        "TODO_UPDATE":"Todo status updated successfully",
+        "TODO_DELETED":"Todo deleted successfully"
+    },
+    "LOCATION":{
+        "COUNTRY_LIST":"Country Get Successfully",
+        "STATE_LIST":"State Get Successfully",
+        "CITIES_LIST":"Cities Get Successfully"
+    },
+    "ERRORS": {
+        "GENERAL": "Something went wrong",
+        "SERVER":"Internal server error"
+    }
+}
